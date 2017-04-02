@@ -1,0 +1,13 @@
+.object {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    height: 200px;
+    width: 200px;
+    background-color: #00cc66;	
+}
+
+.objectprop {
+    text-align: center;
+	font: bold 20px arial;
+}
